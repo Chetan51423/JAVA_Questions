@@ -1,4 +1,4 @@
-👉 Que:1 What are java APPlets?
+👉 Que:1 What are java APPlets? <br>
 -> they are small specialize application in java to be embedded witin web browsers
 -> They were a key components in early web development and were created using java Applets API
 -> Howeveer in modern web development we do not use java Applets
